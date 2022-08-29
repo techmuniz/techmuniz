@@ -1,7 +1,5 @@
-PROFILE IN BUILDING PROCESS :D 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello;This+is+Paulo+Muniz;Nice+to+E-meet+you!" alt="Typing SVG" /></a>
 
-
-# Hey! I'm Paulo Muniz, nice to meet you!👋<br>
 🤸‍♂️ IT International Recruiter <br>
 👨‍🎓 Human Resources Degree <br>
 👩‍💻 Python Enthusiast <br>
