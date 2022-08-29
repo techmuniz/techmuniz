@@ -1,9 +1,8 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&vCenter=true&width=435&lines=Hello;My+name+is+Paulo+Muniz;Nice+to+E-meet+you!" alt="Typing SVG" /></a>
 
-🤸‍♂️ IT International Recruiter <br>
-👨‍🎓 Human Resources Degree <br>
-👩‍💻 Python Enthusiast <br>
-🎮 Gamer 😏
+- :office: &nbsp;I'm currently working at **Turing.com**
+- :seedling: &nbsp;I’m currently learning **Python**
+- :speech_balloon: &nbsp;I like to talk about **PC Gaming** and **JW**
 
 Technologies Used:<br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
