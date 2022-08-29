@@ -12,4 +12,7 @@ Contact:<br>
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:paulomuniz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=techmuniz&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
