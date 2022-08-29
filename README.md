@@ -16,5 +16,5 @@
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
   
-![](https://komarev.com/ghpvc/?techmuniz&color=gray&label=People+Passing+By)
+![](https://komarev.com/ghpvc/?username=techmuniz)
 
