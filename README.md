@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hello;My+name+is+Paulo+Muniz;Nice+to+E-meet+you!" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&vCenter=true&width=435&lines=Hello;My+name+is+Paulo+Muniz;Nice+to+E-meet+you!" alt="Typing SVG" /></a>
 
 🤸‍♂️ IT International Recruiter <br>
 👨‍🎓 Human Resources Degree <br>
