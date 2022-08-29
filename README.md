@@ -4,13 +4,17 @@
 - :seedling: &nbsp;I’m currently learning **Python**
 - :speech_balloon: &nbsp;I like to talk about **PC Gaming** and **JW**
 
-Technologies Used:<br>
+
+##Technologies Used:<br>
 <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
 
-Contact:<br>
+
+## Contact:<br>
 <a href="https://www.linkedin.com/in/paulormuniz/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
 <a href="mailto:paulomuniz@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
   
+![](https://komarev.com/ghpvc/?techmuniz&color=gray&label=People+Passing+By)
 
