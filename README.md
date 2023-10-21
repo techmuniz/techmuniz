@@ -1,6 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=200&vCenter=true&width=435&lines=Hello;My+name+is+Paulo+Muniz;Nice+to+E-meet+you!" alt="Typing SVG" /></a>
 - :office: &nbsp;I'm currently working at **Turing.com**
-- :seedling: &nbsp;I’m currently learning **Python**
+- :seedling: &nbsp;I’m currently studying **Software Engineering**
 - :speech_balloon: &nbsp;I like to talk about **PC Gaming** and **JW**
 
 
